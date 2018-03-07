@@ -41,7 +41,7 @@
     "all": true
   },
   "devDependencies": {
-    "@adexchange/aeg-logger": "0.0.145",
+    "@adexchange/aeg-logger": "^0.0.181",
     "@types/mocha": "^2.2.41",
     "@types/node": "^6.0.0",
     "@types/pg": "^6.1.42",
@@ -57,7 +57,7 @@
     "typescript": "^2.4.1"
   },
   "dependencies": {
-    "@adexchange/aeg-xray": "0.0.53",
+    "@adexchange/aeg-xray": "^0.0.90",
     "pg": "^6.4.1"
   },
   "engine": "node >= 6.10.0"
