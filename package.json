@@ -1,6 +1,6 @@
 {
   "name": "@adexchange/aeg-redshift",
-  "version": "0.0.1",
+  "version": "0.0.84",
   "description": "Redshift client",
   "main": "lib/index.js",
   "types": "./lib/index.d.ts",
